@@ -1,4 +1,4 @@
-# ReactJS Single Page Blog
+# Simple ReactJS Blog
 
 A simple, single-page blog built using ReactJS, focusing on displaying posts and allowing easy navigation. This project uses only JavaScript with ReactJS (no TypeScript) and minimal styling to keep it lightweight and efficient.
 
