@@ -26,7 +26,7 @@ A simple, single-page blog built using ReactJS, focusing on displaying posts and
 
 ## Demo
 
-Check out the live demo here: [Live Demo URL](#) (replace `#` with your live demo link if hosted).
+Check out the live demo here: [Live Demo URL](https://simplereactblog.levynkeneng.dev/#) (replace `#` with your live demo link if hosted).
 
 ---
 
